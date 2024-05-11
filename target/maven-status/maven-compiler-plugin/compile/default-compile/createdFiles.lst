@@ -1,11 +1,9 @@
 com\iudigital\employee\center\dao\FuncionarioDao.class
-com\iudigital\employee\center\presentacion\Main$10.class
 com\iudigital\employee\center\presentacion\Main$6.class
 com\iudigital\employee\center\util\ConnectionUtil.class
 com\iudigital\employee\center\presentacion\Main$7.class
 com\iudigital\employee\center\presentacion\Main$3.class
 com\iudigital\employee\center\presentacion\Main.class
-com\iudigital\employee\center\presentacion\Main$FondoPanel.class
 com\iudigital\employee\center\controller\FuncionarioController.class
 com\iudigital\employee\center\presentacion\Main$2.class
 com\iudigital\employee\center\presentacion\Main$8.class
